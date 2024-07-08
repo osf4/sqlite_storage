@@ -1,0 +1,5 @@
+
+*.whl
+*.gz
+*.txt
+/src/sqlite_storage.egg-info
