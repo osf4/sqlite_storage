@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sqlite_storage"
-version = "1.0.0"
+version = "1.0.3"
 authors = [{ name = "osf4", email = "12y98431c29y4@mail.ru" }]
 description = "SQLite storage for aiogram bots."
 readme = "README.md"
