@@ -2,7 +2,7 @@
 SQLite storage is a small module that allows you to use SQLite as aiogram storage.
 
 # Install
-```pip install sqlite-storage==1.0.0```
+```pip install sqlite-storage```
 
 # Usage
 ```from sqlite_storage.sqlite_storage import SQLiteStorage```
